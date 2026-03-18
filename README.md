@@ -54,7 +54,7 @@ It uses Natural Language Processing (NLP) techniques and classification models t
 * 20,000 Genuine (OR)
 * 20,000 Fake (CG)
 * Balanced dataset ensures fair model training
-
+  
 ---
 
 ## ▶️ Run the Application
