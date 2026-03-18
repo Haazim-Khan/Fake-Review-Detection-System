@@ -74,4 +74,4 @@ http://localhost:8501
 
 **Haazim**
 
-This project is for academic and educational
+This project is for academic and educational purposes only.
